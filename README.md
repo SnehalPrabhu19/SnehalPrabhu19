@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 👀 I’m interested in Machine Learning Algorithms and Data acquisition, preprocessing and visualization.
 
-🌱 I’m currently searching for open positions that enable me leverage my knowledge in software and data engineer roles.
+🌱 I’m currently searching for open positions that enable me leverage my academic knowledge in software and data engineer roles.
 
 📫 Reach me @ scprabhu@umass.edu
